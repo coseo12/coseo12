@@ -1,4 +1,4 @@
-### Hi there, I'm Seo 👋
+### Hi there, I'm C.O.SEO 👋
 
 Experience with all phases of the software lift-cycle. Passtion for learning new technologies. Capable of working within a team environment and independently. Ability to plan and time schedule, work under strict time pressure and adapt quickly when needed.
 
