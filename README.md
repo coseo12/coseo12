@@ -5,6 +5,10 @@ Experience with all phases of the software lift-cycle. Passtion for learning new
 - 🔭 I’m currently working on a Software Engineer in Seoul 
 - 🌱 I’m currently learning on golang and WebGL
 - 📫 How to reach me: coseo1221@gmail.com
+
+
+<img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
 <!--
 **coseo12/coseo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
