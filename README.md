@@ -8,7 +8,7 @@ Experience with all phases of the software lift-cycle. Passtion for learning new
 
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></a> 
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a> 
-<a href="#"><img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript%20-%23a9f.svg?logo=javascript&logoColor=white"></a> 
+<a href="#"><img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript%20-%23fa0.svg?logo=javascript&logoColor=white"></a> 
 <a href="#"><img alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeSciprt%20-%2305f.svg?logo=typescript&logoColor=white"></a> 
 <a href="#"><img alt="GO" src="https://img.shields.io/badge/Go%20-%2309f.svg?logo=go&logoColor=white"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
