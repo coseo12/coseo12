@@ -6,9 +6,12 @@ Experience with all phases of the software lift-cycle. Passtion for learning new
 - 🌱 I’m currently learning on golang and WebGL
 - 📫 How to reach me: coseo1221@gmail.com
 
-
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></a> 
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a> 
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/JavaScript%20-%23a9f.svg?logo=javascript&logoColor=white"></a> 
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/TypeSciprt%20-%2305f.svg?logo=typescript&logoColor=white"></a> 
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/Go%20-%2305f.svg?logo=go&logoColor=white"></a>
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 <!--
 **coseo12/coseo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
