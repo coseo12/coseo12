@@ -3,7 +3,7 @@
 Experience with all phases of the software lift-cycle. Passtion for learning new technologies. Capable of working within a team environment and independently. Ability to plan and time schedule, work under strict time pressure and adapt quickly when needed.
 
 - 🔭 I’m currently working on a Software Engineer in Seoul 
-- 🌱 I’m currently learning on Golang and Rust
+<!-- - 🌱 I’m currently learning on Golang and Rust -->
 - 📫 How to reach me: coseo1221@gmail.com
 
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></a> 
