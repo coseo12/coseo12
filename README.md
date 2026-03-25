@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=C.O.SEO&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=%EC%84%9C%EC%B0%BD%EC%98%A4&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
 </p>
 
 <p align="center">
