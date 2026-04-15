@@ -77,7 +77,7 @@
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logo=smartthings&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -92,7 +92,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coseo12&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=coseo12&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
