@@ -84,23 +84,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="./metrics.svg" alt="Metrics" />
-</p>
-
-<p align="center">
-  <img src="./metrics.languages.svg" alt="Languages" />
-  <img src="./metrics.habits.svg" alt="Habits" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=coseo12&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
----
-
 ### 🤝 Connect
 
 <p align="center">
