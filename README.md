@@ -87,16 +87,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=coseo12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coseo12&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
+  <img src="./metrics.svg" alt="Metrics" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=coseo12&theme=tokyonight&hide_border=true" />
+  <img src="./metrics.languages.svg" alt="Languages" />
+  <img src="./metrics.habits.svg" alt="Habits" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coseo12&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=coseo12&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---

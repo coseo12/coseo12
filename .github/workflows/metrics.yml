@@ -1,0 +1,59 @@
+name: Metrics
+
+on:
+  # 6시간마다 자동 갱신
+  schedule:
+    - cron: "0 */6 * * *"
+  # main 브랜치 푸시 시 갱신
+  push:
+    branches:
+      - main
+  # 수동 실행 지원
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # 메인 통계 카드
+      - name: Main metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: coseo12
+          filename: metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Seoul
+
+      # 언어 통계
+      - name: Languages plugin
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: coseo12
+          filename: metrics.languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, scss, dockerfile
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 6
+          config_timezone: Asia/Seoul
+
+      # 이슈/PR/커밋 등 활동 요약
+      - name: Habits plugin
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: coseo12
+          filename: metrics.habits.svg
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: Asia/Seoul
