@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=AI-Augmented+Software+Engineer;Human+%2B+AI+%3D+Better+Software;Claude+Code+%26+Gemini+CLI+User;Building+at+the+Speed+of+Thought" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=AI-Augmented+Software+Engineer;Human+%2B+AI+%3D+Better+Software;Claude+Code+%26+Antigravity+CLI+User;Building+at+the+Speed+of+Thought" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 > **AI를 단순한 도구가 아닌, 페어 프로그래밍 파트너로 활용하는 개발자입니다.**
 
-서울에서 소프트웨어 엔지니어로 일하며, **Claude Code**와 **Gemini CLI**를 일상 워크플로우에 통합해
+서울에서 소프트웨어 엔지니어로 일하며, **Claude Code**와 **Antigravity CLI**를 일상 워크플로우에 통합해
 아이디어를 빠르게 현실로 만들어가고 있습니다.
 소프트웨어 개발의 전체 라이프사이클을 경험했고, AI와의 협업을 통해 더 나은 코드를 작성하는 방법을 끊임없이 탐구합니다.
 
@@ -75,7 +75,7 @@
     <td align="center"><b>AI / LLM</b></td>
     <td>
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Antigravity_CLI-4285F4?style=flat-square&logo=google&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
       <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square&logo=smartthings&logoColor=white"/>
     </td>
